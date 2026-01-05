@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "月の逆襲",
+  "base_artist": "CreepHyp",
+  "createdAt": "2026-01-05T11:15:33.616349Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月の逆襲 - Tsukino Gyakushu",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/01_月の逆襲_-_Tsukino_Gyakushu_CreepHyp.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月の逆襲",
+      "artist": "クリープハイプ",
+      "has_synced": true,
+      "path": "select/02_月の逆襲_クリープハイプ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "月の逆襲",
+      "artist": "Creep Hyp",
+      "has_synced": true,
+      "path": "select/03_月の逆襲_Creep_Hyp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月の逆襲",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_月の逆襲_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "月の逆襲",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_02_月の逆襲_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "月の逆襲",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_03_月の逆襲_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "月の逆襲",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_04_月の逆襲_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "月の逆襲",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_05_月の逆襲_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "月の逆襲",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_06_月の逆襲_クリープハイプ.txt"
+    }
+  ]
+}
